@@ -1,0 +1,30 @@
+# Environment & secrets
+.env
+.env.*
+!.env.example
+
+# Training outputs & model weights
+results/
+*.bin
+*.safetensors
+*.pt
+*.pth
+*.ckpt
+
+# Local and generated CSV datasets (keep sample_intents.csv)
+data/*.csv
+!data/sample_intents.csv
+
+# Python caches & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+env/
+
+# IDE, OS & notebooks
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints/

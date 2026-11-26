@@ -1,0 +1,9 @@
+text,label
+"My API key returns a 401 unauthorized error when calling the v2 endpoint.",0
+"The mobile app crashes on startup right after the latest iOS update.",0
+"How can I configure single sign-on with SAML 2.0 for my workspace?",0
+"What are your standard business hours and supported billing currencies?",1
+"Do you offer annual discounts for nonprofit organizations?",1
+"Where can I download invoices from previous billing cycles?",1
+"Production database is down and all customer checkouts are failing right now!",2
+"We detected unauthorized admin logins on our account and need immediate lock.",2
